@@ -49,7 +49,11 @@ Document here - Summary of Delft Scuba Mask.
 
 A short article, to be replaced by the real summary as it emerges.
 
-We'll put in one illustration just to prove how this should be set up:  images in the Readme should path to the /docs/img folder where they normally reside. This keeps the top of the design repo clean:  just the Readme(.md), and the 640pxx640px or so-sized summary.jpg, which is for the app Finder to present on searches.
+We'll put in one illustration just to prove how this should be set up:  images in the README should path to the /docs/img folder where they normally reside. 
+
+This keeps the top of the design repo clean:  just the README(.md), and the 640pxx640px or so-sized summary.jpg, which is for the app Finder to present on searches.
+
+Here's the example, an attractive introduction to this design:
 
 ![CPAP Front View](docs/img/cpap_600b.jpg)*CPAP Front View*
 
