@@ -47,13 +47,16 @@ location:
 # Getting started
 Document here - Summary of Delft Scuba Mask.
 
-We'll put in one illustration just to prove how this should be set up:  images in the Readme should path to the /docs/img folder where they normally reside. This keeps the top of the design repo clean:  just Readme.md, and summary.jpg, which is for the app Finder to present on searches.
+A short article, to be replaced by the real summary as it emerges.
+
+We'll put in one illustration just to prove how this should be set up:  images in the Readme should path to the /docs/img folder where they normally reside. This keeps the top of the design repo clean:  just the Readme(.md), and the 640pxx640px or so-sized summary.jpg, which is for the app Finder to present on searches.
 
 ![CPAP Front View](docs/img/cpap_600b.jpg)*CPAP Front View*
 
-This is apparently the official way to do Figure Captions, for reference.
+As you can see in the markdown document for this, it's easy to use the apparently official way to do Figure Captions, for reference.
 
-A short article, to be replaced by the real summary as it emerges..gitignore
+This is different from the words in the square brackets, as those are the Alt Text for fully  accessible browser view.
+
 
 
 
