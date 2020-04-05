@@ -61,6 +61,12 @@ As you can see in the markdown document for this, it's easy to use the apparentl
 
 This is different from the words in the square brackets, as those are the Alt Text for fully  accessible browser view.
 
+It's also important to address the image in the _docs/img_ folder, not the _/img_ folder if one exists, and that the path always start without a slash (/): as simply _docs/img/cpap_600b.jpg_ in this case.
+
+The last point is that letter case is very important, particularly on the dot-ending part of file names, or they won't be found. So, always, _.jpg, .jpeg, .png, .gif_  -- Not, _.JPG_, etc..
+
+Your viewers will thank you for these things, and so will we!
+
 
 
 
