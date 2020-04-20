@@ -1,0 +1,25 @@
+---
+# Comments are expressed with a # preceding the line of text
+# Be as explicit and contextual as possible
+title: Scuba Mask Livesaver
+
+# Name of the actual github repository
+name: TU-Delft-Scuba-Mask-covid-19
+
+# Name your repository after CombatCovid/
+nameWithOwner: CombatCovid/TU-Delft-Scuba-Mask-covid-19
+
+# Description is shown in English for now to get a Minimum Viable Product
+# We are working from the start to facilitate different languages
+languages:
+  # Document in English
+  EN:
+    description: A reusable full face mask for use by medical staff in operating rooms and intensive care units.
+    # Example of description: A low cost ventilator based on off the shelves components available in the Netherlands
+    
+    # Replace the keywords here to whatever is relevant to your context
+    # If you are using a mask then some will probably change
+    keywords: [covid-19,medical equipment,mask,scuba mask,filter,patient,recovery,intensive care,
+               critical care,equipment,emergency,emt,treatment,hospital,operating room]
+
+# end of app metadata
