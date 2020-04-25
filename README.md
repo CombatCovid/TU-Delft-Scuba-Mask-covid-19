@@ -21,7 +21,7 @@ This is different from the words in the square brackets, as those are the Alt Te
 
 It's also important to address the image in the _docs/img_ folder, not the _/img_ folder if one exists, and that the path always start without a slash (/): as simply _docs/img/cpap_600b.jpg_ in this case.
 
-Happily, we've been able to remove this last and uncomfortable requirement by an upgrade in CombatCovid app. So you may already notice many more images of your repo's images showing -- all of them now, without extra work.
+Happily, we've been able to remove this last and uncomfortable requirement by an upgrade in CombatCovid app. So you may already notice many more images of your repo's images showing -- all of them now, without the extra work.
 
 ~~The last point is that letter case is very important, particularly on the dot-ending part of file names, or they won't be found. So, always, _.jpg, .jpeg, .png, .gif_ -- Not, _.JPG_, etc..~~
 
